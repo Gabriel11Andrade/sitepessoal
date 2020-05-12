@@ -1,0 +1,29 @@
+body{
+  background:#008B8B;
+  fonte-family:
+ }
+.menu{
+  background-color:white
+}
+.menu ul{
+  display:flex;
+  justify-content:space-around;
+}
+.menu li{
+  list-style: none;
+}
+a{
+  color:teal;
+  
+}
+a:hover{
+  text-decoration:lavender;
+}
+.site-subtitle,
+.site-title{
+  color:whitesmoke;
+  text-align:center;
+}
+.site-subtitle{
+  font-style: italic;
+}
